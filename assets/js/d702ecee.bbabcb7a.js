@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmix_helper_docs=self.webpackChunkcmix_helper_docs||[]).push([[222],{6525:e=>{e.exports=JSON.parse('{"permalink":"/CMIX-Helper/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

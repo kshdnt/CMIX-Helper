@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcmix_helper_docs=self.webpackChunkcmix_helper_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/CMIX-Helper/blog/first-blog-post"},{"title":"Welcome","permalink":"/CMIX-Helper/blog/welcome"}]}')}}]);
